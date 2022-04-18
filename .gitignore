@@ -1,6 +1,5 @@
-/node_modules/
-/coverage/
-/out/
-/dist/
-.env
-.npmrc
+# InteliJ Preferences
+.idea
+
+# VS Code Preference
+.history/
